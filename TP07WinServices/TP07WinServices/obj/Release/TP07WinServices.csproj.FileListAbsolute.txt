@@ -1,0 +1,8 @@
+C:\Users\TN\source\repos\TP07WinServices\TP07WinServices\bin\Release\TP07WinServices.exe.config
+C:\Users\TN\source\repos\TP07WinServices\TP07WinServices\bin\Release\TP07WinServices.exe
+C:\Users\TN\source\repos\TP07WinServices\TP07WinServices\bin\Release\TP07WinServices.pdb
+C:\Users\TN\source\repos\TP07WinServices\TP07WinServices\obj\Release\TP07WinServices.csproj.AssemblyReference.cache
+C:\Users\TN\source\repos\TP07WinServices\TP07WinServices\obj\Release\TP07WinServices.csproj.SuggestedBindingRedirects.cache
+C:\Users\TN\source\repos\TP07WinServices\TP07WinServices\obj\Release\TP07WinServices.csproj.CoreCompileInputs.cache
+C:\Users\TN\source\repos\TP07WinServices\TP07WinServices\obj\Release\TP07WinServices.exe
+C:\Users\TN\source\repos\TP07WinServices\TP07WinServices\obj\Release\TP07WinServices.pdb

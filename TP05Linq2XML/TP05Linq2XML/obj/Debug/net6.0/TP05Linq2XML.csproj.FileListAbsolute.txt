@@ -1,0 +1,16 @@
+C:\Users\TN\source\repos\TP05Linq2XML\TP05Linq2XML\bin\Debug\net6.0\TP05Linq2XML.exe
+C:\Users\TN\source\repos\TP05Linq2XML\TP05Linq2XML\bin\Debug\net6.0\TP05Linq2XML.deps.json
+C:\Users\TN\source\repos\TP05Linq2XML\TP05Linq2XML\bin\Debug\net6.0\TP05Linq2XML.runtimeconfig.json
+C:\Users\TN\source\repos\TP05Linq2XML\TP05Linq2XML\bin\Debug\net6.0\TP05Linq2XML.dll
+C:\Users\TN\source\repos\TP05Linq2XML\TP05Linq2XML\bin\Debug\net6.0\TP05Linq2XML.pdb
+C:\Users\TN\source\repos\TP05Linq2XML\TP05Linq2XML\obj\Debug\net6.0\TP05Linq2XML.csproj.AssemblyReference.cache
+C:\Users\TN\source\repos\TP05Linq2XML\TP05Linq2XML\obj\Debug\net6.0\TP05Linq2XML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TN\source\repos\TP05Linq2XML\TP05Linq2XML\obj\Debug\net6.0\TP05Linq2XML.AssemblyInfoInputs.cache
+C:\Users\TN\source\repos\TP05Linq2XML\TP05Linq2XML\obj\Debug\net6.0\TP05Linq2XML.AssemblyInfo.cs
+C:\Users\TN\source\repos\TP05Linq2XML\TP05Linq2XML\obj\Debug\net6.0\TP05Linq2XML.csproj.CoreCompileInputs.cache
+C:\Users\TN\source\repos\TP05Linq2XML\TP05Linq2XML\obj\Debug\net6.0\TP05Linq2XML.dll
+C:\Users\TN\source\repos\TP05Linq2XML\TP05Linq2XML\obj\Debug\net6.0\refint\TP05Linq2XML.dll
+C:\Users\TN\source\repos\TP05Linq2XML\TP05Linq2XML\obj\Debug\net6.0\TP05Linq2XML.pdb
+C:\Users\TN\source\repos\TP05Linq2XML\TP05Linq2XML\obj\Debug\net6.0\TP05Linq2XML.genruntimeconfig.cache
+C:\Users\TN\source\repos\TP05Linq2XML\TP05Linq2XML\obj\Debug\net6.0\ref\TP05Linq2XML.dll
+C:\Users\TN\source\repos\TP05Linq2XML\TP05Linq2XML\bin\Debug\net6.0\Students.xml

@@ -1,0 +1,10 @@
+C:\Users\TN\source\repos\TP09WCFServices\WCFHost\obj\Debug\WCFHost.csproj.AssemblyReference.cache
+C:\Users\TN\source\repos\TP09WCFServices\WCFHost\obj\Debug\WCFHost.csproj.CoreCompileInputs.cache
+C:\Users\TN\source\repos\TP09WCFServices\WCFHost\bin\Debug\WCFHost.dll.config
+C:\Users\TN\source\repos\TP09WCFServices\WCFHost\bin\Debug\WCFHost.dll
+C:\Users\TN\source\repos\TP09WCFServices\WCFHost\bin\Debug\WCFHost.pdb
+C:\Users\TN\source\repos\TP09WCFServices\WCFHost\obj\Debug\WCFHost.dll
+C:\Users\TN\source\repos\TP09WCFServices\WCFHost\obj\Debug\WCFHost.pdb
+C:\Users\TN\source\repos\TP09WCFServices\WCFHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TN\source\repos\TP09WCFServices\WCFHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TN\source\repos\TP09WCFServices\WCFHost\obj\Debug\WCFHost.csproj.CopyComplete

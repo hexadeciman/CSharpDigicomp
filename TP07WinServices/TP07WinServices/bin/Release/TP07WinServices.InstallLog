@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\Users\TN\source\repos\TP07WinServices\TP07WinServices\bin\Release\TP07WinServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TN\source\repos\TP07WinServices\TP07WinServices\bin\Release\TP07WinServices.InstallLog
+   assemblypath = C:\Users\TN\source\repos\TP07WinServices\TP07WinServices\bin\Release\TP07WinServices.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\TN\source\repos\TP07WinServices\TP07WinServices\bin\Release\TP07WinServices.exe assembly.
+Committing assembly 'C:\Users\TN\source\repos\TP07WinServices\TP07WinServices\bin\Release\TP07WinServices.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\TN\source\repos\TP07WinServices\TP07WinServices\bin\Release\TP07WinServices.InstallLog
+   assemblypath = C:\Users\TN\source\repos\TP07WinServices\TP07WinServices\bin\Release\TP07WinServices.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\TN\source\repos\TP07WinServices\TP07WinServices\bin\Release\TP07WinServices.exe assembly.
+Remove InstallState file because there are no installers.

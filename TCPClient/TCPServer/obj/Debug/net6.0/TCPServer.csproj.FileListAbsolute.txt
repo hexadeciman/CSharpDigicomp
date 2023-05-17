@@ -1,0 +1,15 @@
+C:\Users\TN\source\repos\TCPClient\TCPServer\bin\Debug\net6.0\TCPServer.exe
+C:\Users\TN\source\repos\TCPClient\TCPServer\bin\Debug\net6.0\TCPServer.deps.json
+C:\Users\TN\source\repos\TCPClient\TCPServer\bin\Debug\net6.0\TCPServer.runtimeconfig.json
+C:\Users\TN\source\repos\TCPClient\TCPServer\bin\Debug\net6.0\TCPServer.dll
+C:\Users\TN\source\repos\TCPClient\TCPServer\bin\Debug\net6.0\TCPServer.pdb
+C:\Users\TN\source\repos\TCPClient\TCPServer\obj\Debug\net6.0\TCPServer.csproj.AssemblyReference.cache
+C:\Users\TN\source\repos\TCPClient\TCPServer\obj\Debug\net6.0\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TN\source\repos\TCPClient\TCPServer\obj\Debug\net6.0\TCPServer.AssemblyInfoInputs.cache
+C:\Users\TN\source\repos\TCPClient\TCPServer\obj\Debug\net6.0\TCPServer.AssemblyInfo.cs
+C:\Users\TN\source\repos\TCPClient\TCPServer\obj\Debug\net6.0\TCPServer.csproj.CoreCompileInputs.cache
+C:\Users\TN\source\repos\TCPClient\TCPServer\obj\Debug\net6.0\TCPServer.dll
+C:\Users\TN\source\repos\TCPClient\TCPServer\obj\Debug\net6.0\refint\TCPServer.dll
+C:\Users\TN\source\repos\TCPClient\TCPServer\obj\Debug\net6.0\TCPServer.pdb
+C:\Users\TN\source\repos\TCPClient\TCPServer\obj\Debug\net6.0\TCPServer.genruntimeconfig.cache
+C:\Users\TN\source\repos\TCPClient\TCPServer\obj\Debug\net6.0\ref\TCPServer.dll

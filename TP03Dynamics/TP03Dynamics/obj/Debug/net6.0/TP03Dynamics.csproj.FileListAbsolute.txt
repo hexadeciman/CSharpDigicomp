@@ -1,0 +1,15 @@
+C:\Users\TN\source\repos\TP03Dynamics\TP03Dynamics\bin\Debug\net6.0\TP03Dynamics.exe
+C:\Users\TN\source\repos\TP03Dynamics\TP03Dynamics\bin\Debug\net6.0\TP03Dynamics.deps.json
+C:\Users\TN\source\repos\TP03Dynamics\TP03Dynamics\bin\Debug\net6.0\TP03Dynamics.runtimeconfig.json
+C:\Users\TN\source\repos\TP03Dynamics\TP03Dynamics\bin\Debug\net6.0\TP03Dynamics.dll
+C:\Users\TN\source\repos\TP03Dynamics\TP03Dynamics\bin\Debug\net6.0\TP03Dynamics.pdb
+C:\Users\TN\source\repos\TP03Dynamics\TP03Dynamics\obj\Debug\net6.0\TP03Dynamics.csproj.AssemblyReference.cache
+C:\Users\TN\source\repos\TP03Dynamics\TP03Dynamics\obj\Debug\net6.0\TP03Dynamics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TN\source\repos\TP03Dynamics\TP03Dynamics\obj\Debug\net6.0\TP03Dynamics.AssemblyInfoInputs.cache
+C:\Users\TN\source\repos\TP03Dynamics\TP03Dynamics\obj\Debug\net6.0\TP03Dynamics.AssemblyInfo.cs
+C:\Users\TN\source\repos\TP03Dynamics\TP03Dynamics\obj\Debug\net6.0\TP03Dynamics.csproj.CoreCompileInputs.cache
+C:\Users\TN\source\repos\TP03Dynamics\TP03Dynamics\obj\Debug\net6.0\TP03Dynamics.dll
+C:\Users\TN\source\repos\TP03Dynamics\TP03Dynamics\obj\Debug\net6.0\refint\TP03Dynamics.dll
+C:\Users\TN\source\repos\TP03Dynamics\TP03Dynamics\obj\Debug\net6.0\TP03Dynamics.pdb
+C:\Users\TN\source\repos\TP03Dynamics\TP03Dynamics\obj\Debug\net6.0\TP03Dynamics.genruntimeconfig.cache
+C:\Users\TN\source\repos\TP03Dynamics\TP03Dynamics\obj\Debug\net6.0\ref\TP03Dynamics.dll

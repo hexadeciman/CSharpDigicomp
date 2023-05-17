@@ -1,0 +1,8 @@
+C:\Users\TN\source\repos\WCFWeather\WCFWeather.Service\obj\Debug\WCFWeather.Service.csproj.AssemblyReference.cache
+C:\Users\TN\source\repos\WCFWeather\WCFWeather.Service\obj\Debug\WCFWeather.Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\TN\source\repos\WCFWeather\WCFWeather.Service\obj\Debug\WCFWeather.Service.csproj.CoreCompileInputs.cache
+C:\Users\TN\source\repos\WCFWeather\WCFWeather.Service\bin\Debug\WCFWeather.Service.exe.config
+C:\Users\TN\source\repos\WCFWeather\WCFWeather.Service\bin\Debug\WCFWeather.Service.exe
+C:\Users\TN\source\repos\WCFWeather\WCFWeather.Service\bin\Debug\WCFWeather.Service.pdb
+C:\Users\TN\source\repos\WCFWeather\WCFWeather.Service\obj\Debug\WCFWeather.Service.exe
+C:\Users\TN\source\repos\WCFWeather\WCFWeather.Service\obj\Debug\WCFWeather.Service.pdb

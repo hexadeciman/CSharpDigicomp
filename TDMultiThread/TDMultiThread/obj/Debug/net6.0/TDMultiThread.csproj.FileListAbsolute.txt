@@ -1,0 +1,15 @@
+C:\Users\TN\source\repos\TDMultiThread\TDMultiThread\bin\Debug\net6.0\TDMultiThread.exe
+C:\Users\TN\source\repos\TDMultiThread\TDMultiThread\bin\Debug\net6.0\TDMultiThread.deps.json
+C:\Users\TN\source\repos\TDMultiThread\TDMultiThread\bin\Debug\net6.0\TDMultiThread.runtimeconfig.json
+C:\Users\TN\source\repos\TDMultiThread\TDMultiThread\bin\Debug\net6.0\TDMultiThread.dll
+C:\Users\TN\source\repos\TDMultiThread\TDMultiThread\bin\Debug\net6.0\TDMultiThread.pdb
+C:\Users\TN\source\repos\TDMultiThread\TDMultiThread\obj\Debug\net6.0\TDMultiThread.csproj.AssemblyReference.cache
+C:\Users\TN\source\repos\TDMultiThread\TDMultiThread\obj\Debug\net6.0\TDMultiThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TN\source\repos\TDMultiThread\TDMultiThread\obj\Debug\net6.0\TDMultiThread.AssemblyInfoInputs.cache
+C:\Users\TN\source\repos\TDMultiThread\TDMultiThread\obj\Debug\net6.0\TDMultiThread.AssemblyInfo.cs
+C:\Users\TN\source\repos\TDMultiThread\TDMultiThread\obj\Debug\net6.0\TDMultiThread.csproj.CoreCompileInputs.cache
+C:\Users\TN\source\repos\TDMultiThread\TDMultiThread\obj\Debug\net6.0\TDMultiThread.dll
+C:\Users\TN\source\repos\TDMultiThread\TDMultiThread\obj\Debug\net6.0\refint\TDMultiThread.dll
+C:\Users\TN\source\repos\TDMultiThread\TDMultiThread\obj\Debug\net6.0\TDMultiThread.pdb
+C:\Users\TN\source\repos\TDMultiThread\TDMultiThread\obj\Debug\net6.0\TDMultiThread.genruntimeconfig.cache
+C:\Users\TN\source\repos\TDMultiThread\TDMultiThread\obj\Debug\net6.0\ref\TDMultiThread.dll

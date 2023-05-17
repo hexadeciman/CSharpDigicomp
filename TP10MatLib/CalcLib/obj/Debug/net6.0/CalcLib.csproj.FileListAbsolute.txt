@@ -1,0 +1,12 @@
+C:\Users\TN\source\repos\TP10MatLib\CalcLib\bin\Debug\net6.0\CalcLib.deps.json
+C:\Users\TN\source\repos\TP10MatLib\CalcLib\bin\Debug\net6.0\CalcLib.dll
+C:\Users\TN\source\repos\TP10MatLib\CalcLib\bin\Debug\net6.0\CalcLib.pdb
+C:\Users\TN\source\repos\TP10MatLib\CalcLib\obj\Debug\net6.0\CalcLib.csproj.AssemblyReference.cache
+C:\Users\TN\source\repos\TP10MatLib\CalcLib\obj\Debug\net6.0\CalcLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TN\source\repos\TP10MatLib\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfoInputs.cache
+C:\Users\TN\source\repos\TP10MatLib\CalcLib\obj\Debug\net6.0\CalcLib.AssemblyInfo.cs
+C:\Users\TN\source\repos\TP10MatLib\CalcLib\obj\Debug\net6.0\CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\TN\source\repos\TP10MatLib\CalcLib\obj\Debug\net6.0\CalcLib.dll
+C:\Users\TN\source\repos\TP10MatLib\CalcLib\obj\Debug\net6.0\refint\CalcLib.dll
+C:\Users\TN\source\repos\TP10MatLib\CalcLib\obj\Debug\net6.0\CalcLib.pdb
+C:\Users\TN\source\repos\TP10MatLib\CalcLib\obj\Debug\net6.0\ref\CalcLib.dll

@@ -1,0 +1,8 @@
+C:\Users\TN\source\repos\TP11SysManagement\TP11SysManagement\bin\Debug\TP11SysManagement.exe.config
+C:\Users\TN\source\repos\TP11SysManagement\TP11SysManagement\bin\Debug\TP11SysManagement.exe
+C:\Users\TN\source\repos\TP11SysManagement\TP11SysManagement\bin\Debug\TP11SysManagement.pdb
+C:\Users\TN\source\repos\TP11SysManagement\TP11SysManagement\obj\Debug\TP11SysManagement.csproj.AssemblyReference.cache
+C:\Users\TN\source\repos\TP11SysManagement\TP11SysManagement\obj\Debug\TP11SysManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\TN\source\repos\TP11SysManagement\TP11SysManagement\obj\Debug\TP11SysManagement.csproj.CoreCompileInputs.cache
+C:\Users\TN\source\repos\TP11SysManagement\TP11SysManagement\obj\Debug\TP11SysManagement.exe
+C:\Users\TN\source\repos\TP11SysManagement\TP11SysManagement\obj\Debug\TP11SysManagement.pdb
