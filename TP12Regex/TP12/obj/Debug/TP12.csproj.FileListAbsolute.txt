@@ -1,0 +1,8 @@
+C:\Users\TN\source\repos\TP12Regex\TP12\bin\Debug\TP12.exe.config
+C:\Users\TN\source\repos\TP12Regex\TP12\bin\Debug\TP12.exe
+C:\Users\TN\source\repos\TP12Regex\TP12\bin\Debug\TP12.pdb
+C:\Users\TN\source\repos\TP12Regex\TP12\obj\Debug\TP12.csproj.AssemblyReference.cache
+C:\Users\TN\source\repos\TP12Regex\TP12\obj\Debug\TP12.csproj.SuggestedBindingRedirects.cache
+C:\Users\TN\source\repos\TP12Regex\TP12\obj\Debug\TP12.csproj.CoreCompileInputs.cache
+C:\Users\TN\source\repos\TP12Regex\TP12\obj\Debug\TP12.exe
+C:\Users\TN\source\repos\TP12Regex\TP12\obj\Debug\TP12.pdb
